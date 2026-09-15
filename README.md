@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ciao a tutti!
 
 <!--
 **alexvago/alexvago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alessandro, an Italian Software Engineer currently living in the Netherlands. I have a passion for building things, trying new technologies and getting 💩 done!
+
+I'm experienced in architecting and building cloud native web applications and enterprise solutions. 
+
+In my spare time I love tinkering with IoT projects and home automation.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,nodejs,nextjs,aws,azure,docker,vitest,vscode,arduino)](https://skillicons.dev)
