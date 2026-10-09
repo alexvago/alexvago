@@ -4,7 +4,7 @@ I'm Alessandro, an Italian Software Engineer currently living in the Netherlands
 
 I'm experienced in architecting and building cloud native web applications and enterprise solutions. 
 
-In my spare time I love tinkering with IoT projects, cooking tasty meals and playing music with my band [LUMINANCE](https://open.spotify.com/artist/7CqYiHuzVVflsIgoLk703e?si=-i7KHCurQqGuCs3Ftsbsmg).
+In my spare time I love tinkering with IoT projects, cooking tasty meals, light saber combat, and playing music with my band [LUMINANCE](https://open.spotify.com/artist/7CqYiHuzVVflsIgoLk703e?si=-i7KHCurQqGuCs3Ftsbsmg).
 
 
 ## My skills
